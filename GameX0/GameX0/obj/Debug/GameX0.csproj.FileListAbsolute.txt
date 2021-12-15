@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\GameX0.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\App.g.cs
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\GameX0_MarkupCompile.cache
+C:\Users\User\Desktop\GameX0\GameX0\bin\Debug\GameX0.exe.config
+C:\Users\User\Desktop\GameX0\GameX0\bin\Debug\GameX0.exe
+C:\Users\User\Desktop\GameX0\GameX0\bin\Debug\GameX0.pdb
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\GameX0_MarkupCompile.lref
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\GameX0.g.resources
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\GameX0.Properties.Resources.resources
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\GameX0.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\GameX0.exe
+C:\Users\User\Desktop\GameX0\GameX0\obj\Debug\GameX0.pdb
